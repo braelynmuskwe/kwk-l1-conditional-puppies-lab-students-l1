@@ -15,7 +15,7 @@ def less_puppies(puppies)
     puts "good job"
   else puppies = 3
     puts "slow dowm"
-    elsif  puppies > 3
+    else  puppies > 3
     puts "get back on animal restriction"
   end 
 end 
